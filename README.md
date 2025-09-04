@@ -49,7 +49,6 @@ class BasicBehavior(Behavior):
         3. Execute the skill
         4. Provide clear, concise feedback"""
 ```
-```
 
 
 For more details visit [our documentation](https://docs.innate.bot/docs.innate.bot/basic/behaviors)
